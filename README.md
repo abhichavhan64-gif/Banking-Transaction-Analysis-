@@ -28,7 +28,7 @@ It includes **10+ specialized SQL queries** to identify financial anomalies such
 
 ## 🛠️ Technical Skills Demonstrated
 
-* Advanced SQL Joins, `GROUP BY`, Window Functions
+* Advanced SQL Joins,Group By, Window Functions
 * Time-based & pattern-based transaction analysis
 * Multi-table relational data integration
 * Detecting fraud indicators using data aggregation
